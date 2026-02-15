@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.2",
+    "latest_version": "1.3",
     "update_url": "https://github.com/Adidadi-allezehn/21ALPHA-gumroad-linux-release/releases/download/v1.2/21ALPHA_Clock_Linux_v1.2.zip",
     "signature": "8f43f017feda56e7cc7538bb212b9c2335618a736998ab94fe6b86841320d7a46421b4081e8dca164b45f7e6b61356981bc792e777571ff680be665076ca010b",
     "release_notes": "<h3>Version 1.2 (Patch)</h3><ul><li><b>Fixed:</b> Update Manager bug causing 'No update information available' error.</li><li>Improved update reliability.</li></ul>"
